@@ -100,10 +100,12 @@ Contributions are welcome! Please follow these guidelines:
 - Push to the branch (`git push origin feature`)
 - Create a new Pull Request
 
-## Team WTF
+## Team Immortal
 
-- [Tharun Yetti](https://github.com/TharunYetti)
-- [Mannar GSS](https://github.com/mannar-165)
-- [Hemanth Kumar M](https://github.com/ihemanthm)
+Shaik Nasir Ahammed[]
+P Veena Madhuri
+P Mounisha
+Nithya
+Akshay
   
 >>>>>>> f059660 (Uploading project)
