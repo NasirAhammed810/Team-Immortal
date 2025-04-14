@@ -90,28 +90,28 @@
 
    <div class="box-container">
       <div class="box">
-		  <h3 class="title">WT WAT3 Results</h3>
-		  <a href="data/WT_AT3.xlsx" class="inline-btn" download>Download</a>
+		  <h3 class="title">WT WAT1 Results</h3>
+		  <a href="data/E2CSE-WT-At1 Score.xlsx" class="inline-btn" download>Download</a>
 	  </div>
       <div class="box">
-		  <h3 class="title">WT WAT4 Results</h3>
-		  <a href="data/WT_AT4.xlsx" class="inline-btn" download>Download</a>
+		  <h3 class="title">WT WAT2 Results</h3>
+		  <a href="data/E2CSE-WT-At2 Score.xlsx" class="inline-btn" download>Download</a>
 	  </div>
 	  <div class="box">
-		  <h3 class="title">DSP WAT1 Results</h3>
-		  <a href="data/DSP_AT1.xlsx" class="inline-btn" download>Download</a>
+		  <h3 class="title">CD WAT1 Results</h3>
+		  <a href="data/_CD-Quiz1 (Responses).xlsx" class="inline-btn" download>Download</a>
 	  </div>
 	  <div class="box">
-		  <h3 class="title">DSP WAT2 Results</h3>
-		  <a href="data/DSP_AT1.xlsx" class="inline-btn" download>Download</a>
+		  <h3 class="title">CD WAT2 Results</h3>
+		  <a href="data/CD QUIZ2-C,D &E (Responses).xlsx" class="inline-btn" download>Download</a>
 	  </div>
 	  <div class="box">
 		  <h3 class="title">DSP WAT3 Results</h3>
-		  <a href="data/DSP_AT1.xlsx" class="inline-btn" download>Download</a>
+		  <a href="data/DSP AT3 RKV R21 MARKS.xlsx" class="inline-btn" download>Download</a>
 	  </div>
 	  <div class="box">
 		  <h3 class="title">DSP WAT4 Results</h3>
-		  <a href="data/DSP_AT1.xlsx" class="inline-btn" download>Download</a>
+		  <a href="data/SEM II E2_DSP WAT4 MARKS R21 BATCH.xlsx" class="inline-btn" download>Download</a>
 	  </div>	
       
 	</div>
