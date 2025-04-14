@@ -71,15 +71,15 @@
 	<div class="box-container">
 		  <div class="box">
 		     <h3 class="title">AY2023-2024 E2 SEM2 StudentsInfo-1</h3>
-		     <a href="data/AY2023-2024_E2CSE_SEM2_StudentsInfo-1_UPDATED.xlsx" class="inline-btn" download>Download</a>
+		     <a href="data/AY2023-2034_E1CSE_SEM2_StudentsInfo.pdf" class="inline-btn" download>Download</a>
         </div>
 		  <div class="box">
-		     <h3 class="title">AY2023-2024 E2 SEM1 Branchwise Classroom</h3>
-		     <a href="data/branch_wise_e1_classroom.pdf" class="inline-btn" download>Download</a>
+		     <h3 class="title">AY2024-2025 E2 SEM1 Branchwise Classroom</h3>
+		     <a href="data/AY2023-2024_SEM1_(R21)E2CSE_ALL_Sections.pdf" class="inline-btn" download>Download</a>
 		  </div>
 		  <div class="box">
-		     <h3 class="title">AY2023-2024 E1 SEM1 Branchwise Classroom</h3>
-		     <a href="data/branch_wise_e1_classroom.pdf" class="inline-btn" download>Download</a>
+		     <h3 class="title">AY2024-2025 E2 SEM2 Time Table</h3>
+		     <a href="data/AY 2024-25 CS Sem2 E1 E2 E3 E4 Time Tables.xlsx" class="inline-btn" download>Download</a>
 		  </div>
       </div>
 </section>
