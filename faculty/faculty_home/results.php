@@ -73,28 +73,24 @@
 
    <div class="box-container">
 		  <div class="box">
-		     <h3 class="title">AY2023-2024 E2 SEM2 <br>Section A</h3>
-		     <a href="https://docs.google.com/spreadsheets/d/1Fidaa7MkrR1krV87uU0p5N02IxpD5q79mz8gJ-vKPq0/edit#gid=0" class="inline-btn" target="_blank" >Edit</a>
+		     <h3 class="title">AY2024-2025 E2 SEM2<br>Section A</h3>
+		     <a href="https://docs.google.com/spreadsheets/d/1lcWEkrfTBCpWA1oyKS1OXhpPzDLxZpk4VgFCHzg_LB8/edit?gid=0#gid=0" class="inline-btn" target="_blank" >Edit</a>
         </div>
 		  <div class="box">
-		     <h3 class="title">AY2023-2024 E2 SEM2 <br>Section B</h3>
-		     <a href="https://docs.google.com/spreadsheets/d/1Fidaa7MkrR1krV87uU0p5N02IxpD5q79mz8gJ-vKPq0/edit#gid=310680920" class="inline-btn" target="_blank">Edit</a>
+		     <h3 class="title">AY2024-2025 E2 SEM2 <br>Section B</h3>
+		     <a href="https://docs.google.com/spreadsheets/d/1TLhesmey_cDFs8PK3OS6-k5uSeMIoADp-ny02gI44wM/edit?gid=0#gid=0" class="inline-btn" target="_blank">Edit</a>
 		  </div>
 		  <div class="box">
-		     <h3 class="title">AY2023-2024 E2 SEM2 <br>Section C</h3>
-		     <a href="https://docs.google.com/spreadsheets/d/1Fidaa7MkrR1krV87uU0p5N02IxpD5q79mz8gJ-vKPq0/edit#gid=2047265423" class="inline-btn" target="_blank">Edit</a>
+		     <h3 class="title">AY2024-2025 E2 SEM2 <br>Section C</h3>
+		     <a href="https://docs.google.com/spreadsheets/d/1RjlQaIEspZYjdBEWnDMpgiOtfM6t9vqgUKfUiEXNYwU/edit?gid=0#gid=0" class="inline-btn" target="_blank">Edit</a>
 		  </div>
           <div class="box">
-		     <h3 class="title">AY2023-2024 E2 SEM2 <br>Section D</h3>
-		     <a href="https://docs.google.com/spreadsheets/d/1Fidaa7MkrR1krV87uU0p5N02IxpD5q79mz8gJ-vKPq0/edit#gid=1843776665" class="inline-btn" target="_blank">Edit</a>
+		     <h3 class="title">AY2024-2025 E2 SEM2<br>Section D</h3>
+		     <a href="https://docs.google.com/spreadsheets/d/1ZQa-WZoaB7NEVyT_BcfqqHPc973mL-wDsDHeoQE2h9Y/edit?gid=0#gid=0" class="inline-btn" target="_blank">Edit</a>
         </div>
 		  <div class="box">
-		     <h3 class="title">AY2023-2024 E2 SEM2 <br>Section E</h3>
-		     <a href="https://docs.google.com/spreadsheets/d/1Fidaa7MkrR1krV87uU0p5N02IxpD5q79mz8gJ-vKPq0/edit#gid=2073297662" class="inline-btn" target="_blank">Edit</a>
-		  </div>
-		  <div class="box">
-		     <h3 class="title">AY2023-2024 E2 SEM2 <br>Section F</h3>
-		     <a href="https://docs.google.com/spreadsheets/d/1Fidaa7MkrR1krV87uU0p5N02IxpD5q79mz8gJ-vKPq0/edit#gid=1480492018" class="inline-btn" target="_blank">Edit</a>
+		     <h3 class="title">AY2024-2025 E2 SEM2 <br>Section E</h3>
+		     <a href="https://docs.google.com/spreadsheets/d/1YSJIonpzObDzGDnuc_zPLxsl_UDIKlCNiJhfzGg3T7Y/edit?gid=0#gid=0" class="inline-btn" target="_blank">Edit</a>
 		  </div>
       </div>
 </section>
@@ -107,28 +103,24 @@
  
     <div class="box-container">
 		  <div class="box">
-		     <h3 class="title">AY2023-2024 E2 SEM2 <br>Section A</h3>
-		     <a href="https://docs.google.com/spreadsheets/d/1kkSnStncWtYyC8VcUyQpZPHeotNoWYveZG_eUudPTWU/edit#gid=0" class="inline-btn" target="_blank" >Edit</a>
+		     <h3 class="title">AY2024-2025 E2 SEM2 <br>Section A</h3>
+		     <a href="https://docs.google.com/spreadsheets/d/1o6RMub1tnLb6d7KUh9EcH3lFbD4K5MwXBrF3k49D0Io/edit?gid=0#gid=0" class="inline-btn" target="_blank" >Edit</a>
         </div>
 		  <div class="box">
-		     <h3 class="title">AY2023-2024 E2 SEM2 <br>Section B</h3>
-		     <a href="https://docs.google.com/spreadsheets/d/1kkSnStncWtYyC8VcUyQpZPHeotNoWYveZG_eUudPTWU/edit#gid=1517711437" class="inline-btn" target="_blank">Edit</a>
+		     <h3 class="title">AY2024-2025 E2 SEM2 <br>Section B</h3>
+		     <a href="https://docs.google.com/spreadsheets/d/1RARa5jZG_E4HjdYG8V86PhLZ8mXdRsUC4XmIyQ0Yewo/edit?gid=0#gid=0" class="inline-btn" target="_blank">Edit</a>
 		  </div>
 		  <div class="box">
-		     <h3 class="title">AY2023-2024 E2 SEM2 <br>Section C</h3>
-		     <a href="https://docs.google.com/spreadsheets/d/1kkSnStncWtYyC8VcUyQpZPHeotNoWYveZG_eUudPTWU/edit#gid=835545759" class="inline-btn" target="_blank">Edit</a>
+		     <h3 class="title">AY2024-2025 E2 SEM2 <br>Section C</h3>
+		     <a href="https://docs.google.com/spreadsheets/d/1EfiudEkIQUBLaq513DI3-Xf-EPvNpu3NVpI_NTIpqfc/edit?gid=0#gid=0" class="inline-btn" target="_blank">Edit</a>
 		  </div>
           <div class="box">
-		     <h3 class="title">AY2023-2024 E2 SEM2 <br>Section D</h3>
-		     <a href="https://docs.google.com/spreadsheets/d/1kkSnStncWtYyC8VcUyQpZPHeotNoWYveZG_eUudPTWU/edit#gid=1699953243" class="inline-btn" target="_blank">Edit</a>
+		     <h3 class="title">AY2024-2025 E2 SEM2 <br>Section D</h3>
+		     <a href="https://docs.google.com/spreadsheets/d/1w8tFGevv3Eyg5VzzNmEyaDjbj_76b97VDJU_yi9GX5E/edit?gid=0#gid=0" class="inline-btn" target="_blank">Edit</a>
         </div>
 		  <div class="box">
-		     <h3 class="title">AY2023-2024 E2 SEM2 <br>Section E</h3>
-		     <a href="https://docs.google.com/spreadsheets/d/1kkSnStncWtYyC8VcUyQpZPHeotNoWYveZG_eUudPTWU/edit#gid=156963176" class="inline-btn" target="_blank">Edit</a>
-		  </div>
-		  <div class="box">
-		     <h3 class="title">AY2023-2024 E2 SEM2 <br>Section F</h3>
-		     <a href="https://docs.google.com/spreadsheets/d/1kkSnStncWtYyC8VcUyQpZPHeotNoWYveZG_eUudPTWU/edit#gid=1425592949" class="inline-btn" target="_blank">Edit</a>
+		     <h3 class="title">AY2024-2025 E2 SEM2 <br>Section E</h3>
+		     <a href="https://docs.google.com/spreadsheets/d/1ggMVOaCX3IB6rkzgPKxNaWG4HyI1TP1AAwSl7aA0vWw/edit?gid=0#gid=0" class="inline-btn" target="_blank">Edit</a>
 		  </div>
       </div>
  
