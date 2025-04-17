@@ -1,7 +1,7 @@
 <?php
     // Database connection parameters
     // Including the configuration file
-    require_once '../../config.php';
+    require_once '../config.php';
 
     // Connect to MySQL database
     $conn = new mysqli(HOSTNAME,USERNAME,PASSWORD, DATABASE);
